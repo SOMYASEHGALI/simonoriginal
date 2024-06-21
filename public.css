@@ -1,0 +1,39 @@
+h1,h2{
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 2.5rem;
+    border: 5px solid black;
+    /* transition: 0.5s; */
+}
+
+.purple{
+    background-color: red;
+}
+
+.lighblue{
+    background-color:yellow;
+}
+.pinkish{
+    background-color: purple;
+}
+.greenish{
+    background-color: green;
+}
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: grey;
+}
